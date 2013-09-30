@@ -1,6 +1,8 @@
 Graph Analysis of Adidas Country accounts
 ==========
 
+Check out the graph at [http://adidas-countries.herokuapp.com](http://adidas-countries.herokuapp.com)
+
 I find it fascinating to study social networks with graph analysis tools such as [Gephi](http://gephi.org). 
 
 * Who is most important in the network? 
